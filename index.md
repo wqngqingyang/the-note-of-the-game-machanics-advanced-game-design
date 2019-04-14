@@ -223,3 +223,10 @@
 <tr>
 <td> 概率空间足够大 </td>     <td  rowspan="2">利用地图产生变化性并限制概率空间           
 <tr><td>多种方法过关 </td><tr>
+
+
+
+
+
+
+[返回主页](https://wqngqingyang.github.io/personal-blog/)
