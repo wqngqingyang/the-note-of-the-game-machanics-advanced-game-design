@@ -1,7 +1,8 @@
 ***
-# [《游戏机制：高级游戏设计技术》](https://m.aliyun.com/yunqi/articles/92097?spm=5176.11156381.0.0.7a5d306cHYmX1M)读书笔记 #
+# [《游戏机制：高级游戏设计技术》](https://m.aliyun.com/yunqi/articles/92097?spm=5176.11156381.0.0.7a5d306cHYmX1M)<span id="jump">读书笔记 </span>#
 ***
-## 第一章 设计游戏机制 ##
+
+## 第一章 设计游戏机制  ##
 ### - 知识导图 ###
 
 
@@ -230,7 +231,7 @@
 
 
 
-
+[回到上](#jump) 
 
 
 
