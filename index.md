@@ -212,21 +212,20 @@
 <td rowspan="1"> 影响游戏进程  </td><td> 避免死锁（如不断重生资源）</td>
 <tr>
 
-<td rowspan="1">引入策略性玩法 </th>
+<td rowspan="1">引入策略性玩法 </td>
 <td> 长远规划和长远投资，使用时机 </td><td rowspan="2">留意超经济结构
 
 
 <tr>
 
-<td rowspan="3">创造大概率空间</th>
+<td rowspan="3">创造大概率空间</td>
 <td> 防止特定组合方案过于出众 </td>  
 <tr>
 <td> 概率空间足够大 </td>     <td  rowspan="2">利用地图产生变化性并限制概率空间           
 <tr><td>多种方法过关 </td><tr>
 </tr>
-</table>
 
-********
+
 
 
 
